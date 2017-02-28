@@ -1,0 +1,3 @@
+markdown: redcarpet  
+baseurl: /jekyll-form
+exclude: ['README.md', 'junk_folder'] 
